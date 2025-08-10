@@ -1,0 +1,3 @@
+Property Name,City,Check-in,Check-out,Nights,Platform (Booking/Airbnb/etc.),Confirmation Code/URL,Amount,Currency (SEK/BRL),Paid By (Bruno/Sebastian),Split With (Both/Bruno/Sebastian/None),Notes
+Hotel Paulista,São Paulo,2025-12-10,2025-12-12,2,Booking,ABC123,1200,SEK,Bruno,Both,Good location
+Airbnb Centro,Rio de Janeiro,2025-12-08,2025-12-10,2,Airbnb,XYZ789,800,BRL,Sebastian,None,Near beach

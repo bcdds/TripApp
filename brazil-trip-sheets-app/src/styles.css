@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #0165B5; /* Sweden blue accent */
+  --accent-2: #1E9E45; /* Brazil green accent */
+}

@@ -1,0 +1,4 @@
+Date,Category (Restaurant/Transport/Flight/Activity/Other),Description,City,Amount,Currency (SEK/BRL),Paid By (Bruno/Sebastian),Split Type (Split/Personal),Split % Bruno,Split % Sebastian,Notes
+2025-12-10,Restaurant,Churrascaria,São Paulo,300,BRL,Bruno,Split,50,50,Great dinner
+2025-12-10,Transport,Uber,São Paulo,80,SEK,Sebastian,Personal,,,,
+2025-12-11,Flight,GRU → VCP,São Paulo,450,SEK,Bruno,Split,60,40,Azul

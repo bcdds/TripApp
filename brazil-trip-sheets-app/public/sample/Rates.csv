@@ -1,0 +1,3 @@
+Pair,Rate,Note
+BRL->SEK,2.10,Enter today's conversion rate: 1 BRL = ? SEK
+SEK->BRL,0.0,Inverse (optional)
